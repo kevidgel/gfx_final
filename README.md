@@ -1,4 +1,3 @@
-# 09_lighting
 Project for Computer Graphics 
 
 A program to generate various shapes in both 2D and 3D. Includes concepts such as Bresenham’s line algorithm, edge lists, splines, z-buffering, and Phong reflection.
