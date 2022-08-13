@@ -14,6 +14,6 @@ Commands and descriptions are listed at the top of ```parser.c``` (note that thi
 
 Sample Images:
 
-![sphere](https://github.com/kevidgel/gfx_final/blob/master/sphere.jpg?raw=true)
-![torus](https://github.com/kevidgel/gfx_final/blob/master/torus.jpg?raw=true)
-![robot](https://github.com/kevidgel/gfx_final/blob/master/robot.jpg?raw=true)
+![sphere](https://github.com/kevidgel/gfx_final/blob/main/sphere.jpg?raw=true)
+![torus](https://github.com/kevidgel/gfx_final/blob/main/torus.jpg?raw=true)
+![robot](https://github.com/kevidgel/gfx_final/blob/main/robot.jpg?raw=true)
